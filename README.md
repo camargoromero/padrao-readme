@@ -37,6 +37,11 @@
 <ul>
     <li><a href="#descricaoProjeto">Descrição do Projeto</a></li>
     <li><a href="#">Status do projeto</a></li>
+    <li><a href= "#funcionalidades">Funcionalidades</a></li>
+    <li><a href= "#preRequisitos">Pré-Requisitos</a></li>
+    <li><a href= "#executarProjeto">Executar o Projeto</a></li>
+    <li><a href= "#mapaProjeto">Mapa do Projeto</a></li>
+    <li><a href= "#tecnologiasUtilizadas">Tecnologias Utilizadas</a></li>
 </ul>
 <!-- Menu Horizontal -->
 <!-- <p align="center">
@@ -51,3 +56,61 @@
 <h4 align="center">
     Em construção  :rocket:
 </h4>
+
+<p id="funcionalidades"></p>
+
+## Funcionalidades
+
+- [x] README com MarkDown
+- [X] README com HTLM
+- [ ] Badge 
+
+<p id="preRequisitos"></p>
+
+## Pré-Requisitos
+
+- [VSCode](https://code.visualstudio.com/)
+- [GIT](https://git-scm.com/downloads/win)
+
+<p id="executarProjeto"></p>
+
+## Executar o Projeto
+```bash
+
+# Clone do Repositório
+
+git clone <path do repositório>
+
+
+# Acesse a pasta do projeto via terminal
+
+cd meu-projeto
+
+
+# Abrir o VSCode no <path do repositório>
+
+code .
+
+```
+
+<p id="mapaProjeto"></p>
+
+## Mapa do Projeto
+
+```bash
+
++---img             // Contém as Imagens do README
++---temp            // Paste temp para gerar tree
+ª   +---temp-1      // Paste temp para gerar tree
+ª   +---temp-2      // Paste temp para gerar tree
++---temp copy       // Paste temp para gerar tree
+    +---temp-1      // Paste temp para gerar tree
+    +---temp-2      // Paste temp para gerar tree
+```
+
+<p id="tecnologiasUtilizadas"></p>
+
+## Tecnologias Utilizadas
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [MarkDown](https://www.markdownguide.org/)
